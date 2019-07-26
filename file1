@@ -1,4 +1,4 @@
 class void
 {
-main
+main hello
 }
