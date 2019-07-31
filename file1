@@ -1,9 +1,15 @@
 hello
+<<<<<<< HEAD
 hel1
 hello2
 hel3
+=======
+hell1
+hello2
+hell3
+>>>>>>> 4ad99d829a99adbc8b23a9371bea91be0ee0bb90
 hello4
-hello5
+hell5
 helllo6
 hel7
 
